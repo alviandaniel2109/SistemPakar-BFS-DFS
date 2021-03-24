@@ -1,6 +1,6 @@
-# #SISTEM PAKAR BFS dan DFS
+#SISTEM PAKAR BFS dan DFS
 
-##Analisis PROGRAM BFS
+#Analisis PROGRAM BFS
 
 Pada Baris 8-14 
 ```
@@ -35,7 +35,7 @@ Outputnya : 1-3-2-6-4-5
 ```
 
 
-##Analisis PROGRAM DFS
+#Analisis PROGRAM DFS
 
 Pada Baris 41
 ```
